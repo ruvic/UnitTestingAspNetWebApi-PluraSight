@@ -45,6 +45,7 @@ namespace EmployeeManagement.Business
             // the suggested bonus must be recalculated
             employee.SuggestedBonus = employee.YearsInService
                 * employee.AttendedCourses.Count * 100;
+
         }
 
         public async Task GiveMinimumRaiseAsync(InternalEmployee employee)
