@@ -145,3 +145,5 @@ C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeMa
 C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeManagement\EmployeeManagement.Test\obj\Debug\net6.0\EmployeeManagement.Test.genruntimeconfig.cache
 C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeManagement\EmployeeManagement.Test\obj\Debug\net6.0\ref\EmployeeManagement.Test.dll
 C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeManagement\EmployeeManagement.Test\bin\Debug\net6.0\TestData\EmployeeServiceTestData.csv
+C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeManagement\EmployeeManagement.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Letis BORTTIER\source\repos\LearnUnitTestingAspNetCoreWebApi\EmployeeManagement\EmployeeManagement.Test\bin\Debug\net6.0\Moq.dll
