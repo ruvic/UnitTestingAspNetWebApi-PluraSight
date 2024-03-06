@@ -6,8 +6,8 @@ namespace EmployeeManagement.MapperProfiles
     public class EmployeeProfile : Profile
     {
         public EmployeeProfile()
-        { 
-            CreateMap<InternalEmployee, Models.InternalEmployeeDto>(); 
+        {
+            CreateMap<InternalEmployee, Models.InternalEmployeeDto>();
         }
     }
 }

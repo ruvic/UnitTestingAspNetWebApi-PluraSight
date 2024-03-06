@@ -43,7 +43,7 @@ namespace EmployeeManagement.Business
             Guid employeeId)
         {
             // call into API
-            var apiRoot = "http://localhost:5057";
+            var apiRoot = "https://localhost:7230";
 
             var request = new HttpRequestMessage(HttpMethod.Get,
                 $"{apiRoot}/api/promotioneligibilities/{employeeId}");

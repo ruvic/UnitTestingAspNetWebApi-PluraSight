@@ -39,7 +39,7 @@ namespace EmployeeManagement.Controllers
             else
             {
                 return BadRequest("Employee not eligible for promotion.");
-            }              
+            }
         }
     }
 }
